@@ -1,0 +1,19 @@
+
+@media only screen and (max-width: 1440px){
+	.container{
+		padding: 0 15px;
+	}
+} 
+@media (max-width: 768px) {
+	.row-ct .col-box{
+		width: 100%;
+		margin-bottom: 35px;
+	}
+	.row-ct{
+		display: block;
+		padding-bottom: 50px;
+	}
+	.site-footer .copyright{
+		text-align: center;
+	}
+}
